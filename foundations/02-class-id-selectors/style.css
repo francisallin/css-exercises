@@ -1,0 +1,19 @@
+p {
+    background-color: rgb(238, 142, 142);
+    font-family:Verdana, DejaVu Sans sans-serif;
+}
+
+#second-row {
+    color: blue;
+    font-size: 36px;
+}
+
+.third-row {
+    font-size: 24px;
+}
+
+#fourth-row {
+    background-color: rgb(172, 227, 172);
+    font-weight: 700;
+    font-size: 24px;
+}
